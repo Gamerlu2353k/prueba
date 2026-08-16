@@ -1,3 +1,20 @@
+Creo que el archivo de bug_report.md no fue colocado en los recursos, pero aquí dejo una témplate:
+
+---
+
+name: "🐛 Bug Report"
+
+about: "Reportar un error para ayudarnos a mejorar el proyecto."
+
+title: "[BUG] - Descripción corta del error"
+
+labels: bug
+
+assignees: ""
+
+---
+
+## 🐛 Bug Report
 **Descripción del error**
 Explica de forma clara y breve cuál es el problema.
 
